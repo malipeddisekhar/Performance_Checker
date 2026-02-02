@@ -4,6 +4,20 @@
 
 **Performance_Checker** is a web-based application designed to predict student performance using machine learning. Built with Flask, it helps forecast a student's activity score and assess academic risk based on multiple input factors. The goal is to empower students, educators, and academic advisors to take informed, proactive measures by offering timely insights and recommendations.
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Score Predictor
+![Score Predictor](screenshots/predictor.png)
+
+### Risk Classifier
+![Risk Classifier](screenshots/classifier.png)
+
+### Prediction Results
+![Prediction Results](screenshots/results.png)
+
 ## Key Features
 
 * Clean, modern UI with glassmorphism design
