@@ -103,4 +103,4 @@ Visit `http://localhost:5000` to access the application.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License by MalipeddiSekhar.
